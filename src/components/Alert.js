@@ -17,7 +17,7 @@ const Alert = styled(ShoelaceAlert)`
 `
 
 function AlertWrapper({ children, ...props }) {
-  return <Alert>{children}</Alert>
+  return <Alert {...props}>{children}</Alert>
 }
 
 export default AlertWrapper

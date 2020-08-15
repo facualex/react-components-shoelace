@@ -1,11 +1,12 @@
-import React from 'react';
+import React from 'react'
+import { Alert } from './components'
 
 function App() {
   return (
-    <div>
-      Components Library
-    </div>
-  );
+    <Alert type="primary" open>
+      Alerta
+    </Alert>
+  )
 }
 
-export default App;
+export default App

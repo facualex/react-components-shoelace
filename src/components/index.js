@@ -1,7 +1,7 @@
 import Alert from './Alert'
 import Avatar from './Avatar'
 import Animation from './Animation'
-import Badge from './Avatar'
+import Badge from './Badge'
 import Button from './Button'
 import ButtonGroup from './ButtonGroup'
 import Card from './Card'
@@ -34,6 +34,41 @@ import TabPanel from './TabPanel'
 import Tag from './Tag'
 import Textarea from './Textarea'
 import Tooltip from './Tooltip'
-
-
-export { Alert, Animation, Avatar, Badge, Button, ButtonGroup, Card, Checkbox, ColorPicker, Details, Dialog, Drawer, Dropdown, Form, Icon, IconButton, Input, Menu, MenuDivider, MenuItem, MenuLabel, ProgressBar, ProgressRing, Radio, Range, Rating, Select, Skeleton, Spinner, Switch, Tab, TabGroup, TabPanel, Tag, Textarea, Tooltip }
+export {
+  Alert,
+  Animation,
+  Avatar,
+  Badge,
+  Button,
+  ButtonGroup,
+  Card,
+  Checkbox,
+  ColorPicker,
+  Details,
+  Dialog,
+  Drawer,
+  Dropdown,
+  Form,
+  Icon,
+  IconButton,
+  Input,
+  Menu,
+  MenuDivider,
+  MenuItem,
+  MenuLabel,
+  ProgressBar,
+  ProgressRing,
+  Radio,
+  Range,
+  Rating,
+  Select,
+  Skeleton,
+  Spinner,
+  Switch,
+  Tab,
+  TabGroup,
+  TabPanel,
+  Tag,
+  Textarea,
+  Tooltip,
+}
