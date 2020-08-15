@@ -1,3 +1,3 @@
-# Librearia de componentes
+# Shoelace React Components
 
-> Librearia de componentes web para react basada en shoelace.style
+> React components library based on shoelace web components using styled components / system
