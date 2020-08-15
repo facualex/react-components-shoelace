@@ -1,11 +1,14 @@
 import React from 'react'
-import { Alert } from './components'
+import { Alert, Avatar } from './components'
 
 function App() {
   return (
-    <Alert type="success" closable open>
-      Alerta
-    </Alert>
+    <>
+      <h3>Alert</h3>
+      <Alert>Alerta</Alert>
+      <h3>Avatar</h3>
+      <Avatar />
+    </>
   )
 }
 

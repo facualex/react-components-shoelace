@@ -10,14 +10,14 @@ import {
   background,
 } from 'styled-system'
 
-const ShoelaceAlert = wrapCustomElement(`sl-alert`)
+const ShoelaceAvatar = wrapCustomElement(`sl-avatar`)
 
-const Alert = styled(ShoelaceAlert)`
+const Avatar = styled(ShoelaceAvatar)`
   ${compose(flexbox, space, color, layout, background)}
 `
 
-function AlertWrapper({ children, ...props }) {
-  return <Alert>{children}</Alert>
+function AvatarWrapper({ children, ...props }) {
+  return <Avatar />
 }
 
-export default AlertWrapper
+export default AvatarWrapper
