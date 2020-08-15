@@ -3,7 +3,7 @@ import { Alert } from './components'
 
 function App() {
   return (
-    <Alert type="primary" open>
+    <Alert type="success" closable open>
       Alerta
     </Alert>
   )
