@@ -19,4 +19,4 @@ function AlertWrapper({ children, ...props }) {
   return <Alert>{children}</Alert>
 }
 
-return AlertWrapper
+export default AlertWrapper
