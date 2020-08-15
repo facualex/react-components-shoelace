@@ -1,5 +1,5 @@
 import React from 'react'
-import wrapCustomElement from '@shoelace-style-style/react-wrapper'
+import wrapCustomElement from '@shoelace-style/react-wrapper'
 import styled from 'styled-components'
 import {
   compose,

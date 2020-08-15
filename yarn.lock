@@ -1344,16 +1344,16 @@
   resolved "https://registry.yarnpkg.com/@sheerun/mutationobserver-shim/-/mutationobserver-shim-0.3.3.tgz#5405ee8e444ed212db44e79351f0c70a582aae25"
   integrity sha512-DetpxZw1fzPD5xUBrIAoplLChO2VB8DlL5Gg+I1IR9b2wPqYIca2WSUxL5g1vLeR4MsQq1NeWriXAVffV+U1Fw==
 
-"@shoelace-style-style-style/react-wrapper@^1.0.3":
+"@shoelace-style/react-wrapper@^1.0.3":
   version "1.0.3"
-  resolved "https://registry.yarnpkg.com/@shoelace-style-style-style/react-wrapper/-/react-wrapper-1.0.3.tgz#3c72851502e50c80b18d18227865214ad0b53f4c"
+  resolved "https://registry.yarnpkg.com/@shoelace-style/react-wrapper/-/react-wrapper-1.0.3.tgz#3c72851502e50c80b18d18227865214ad0b53f4c"
   integrity sha512-gDAQI0DiuOqwj9O3XCCzOb9HaHcM77T4nIo/n3lma9NfbEkw1AysCbqPP6XZDyxUt8pzESPaYk8TRX0Nqtzriw==
   dependencies:
     react "^16.13.1"
 
-"@shoelace-style-style-style/shoelace@^2.0.0-beta.13":
+"@shoelace-style/shoelace@^2.0.0-beta.13":
   version "2.0.0-beta.13"
-  resolved "https://registry.yarnpkg.com/@shoelace-style-style-style/shoelace/-/shoelace-2.0.0-beta.13.tgz#c1884a20fe148833d0b6fe7a0e95e8b5f6e2077b"
+  resolved "https://registry.yarnpkg.com/@shoelace-style/shoelace/-/shoelace-2.0.0-beta.13.tgz#c1884a20fe148833d0b6fe7a0e95e8b5f6e2077b"
   integrity sha512-1LyZRhu12/WVXbzmMit1KgkuJzAMuUAMocyFN7sG+cagg1Lh9a4Szntrf8YLgwhjQOHRtht2VkEPF46l8I5QAg==
   dependencies:
     "@popperjs/core" "^2.1.1"
